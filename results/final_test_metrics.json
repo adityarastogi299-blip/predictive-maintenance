@@ -1,0 +1,24 @@
+{
+  "model": "Extra Trees",
+  "n_test_engines": 100,
+  "label_range": [
+    7,
+    145
+  ],
+  "official_labels": {
+    "MAE": 13.82922944379586,
+    "MSE": 357.77245932836917,
+    "RMSE": 18.914874023592365,
+    "R2": 0.792820222599107,
+    "NASA_Score": 648.4483481456892
+  },
+  "labels_capped_at_125": {
+    "MAE": 12.75922944379586,
+    "MSE": 311.17285917949647,
+    "RMSE": 17.640092380129317,
+    "R2": 0.8062275628720947,
+    "NASA_Score": 573.1379406387883
+  },
+  "late_predictions": 57,
+  "early_predictions": 43
+}

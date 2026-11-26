@@ -1,0 +1,16 @@
+{
+  "Model": "KNN",
+  "Member": "varnika",
+  "MAE": 11.260179378320736,
+  "MSE": 247.48667155153936,
+  "RMSE": 15.73170911094975,
+  "R2": 0.8577823118889657,
+  "NASA_Score": 22813.590833594033,
+  "CV_RMSE": 18.331429858047503,
+  "Training_Time_Seconds": 12.25,
+  "best_params": {
+    "model__n_neighbors": 25,
+    "model__p": 1,
+    "model__weights": "distance"
+  }
+}

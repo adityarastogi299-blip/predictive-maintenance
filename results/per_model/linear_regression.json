@@ -1,0 +1,12 @@
+{
+  "Model": "Linear Regression",
+  "Member": "varnika",
+  "MAE": 14.472148194227332,
+  "MSE": 320.43341925413887,
+  "RMSE": 17.900654157156907,
+  "R2": 0.8158636188601892,
+  "NASA_Score": 21892.675517136413,
+  "CV_RMSE": NaN,
+  "Training_Time_Seconds": 0.08,
+  "best_params": {}
+}

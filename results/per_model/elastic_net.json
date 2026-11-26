@@ -1,0 +1,15 @@
+{
+  "Model": "Elastic Net",
+  "Member": "rajeshwari",
+  "MAE": 14.62551205018764,
+  "MSE": 326.47567734809235,
+  "RMSE": 18.068637949444124,
+  "R2": 0.812391448129923,
+  "NASA_Score": 21926.884430549475,
+  "CV_RMSE": 20.692356362103904,
+  "Training_Time_Seconds": 823.93,
+  "best_params": {
+    "model__alpha": 0.2537815508265665,
+    "model__l1_ratio": 0.687265320016441
+  }
+}

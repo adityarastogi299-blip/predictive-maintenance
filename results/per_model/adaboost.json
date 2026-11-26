@@ -1,0 +1,17 @@
+{
+  "Model": "AdaBoost",
+  "Member": "rajeshwari",
+  "MAE": 10.288689324520378,
+  "MSE": 223.0382381131032,
+  "RMSE": 14.93446477491253,
+  "R2": 0.8718315520349216,
+  "NASA_Score": 16630.112882932124,
+  "CV_RMSE": 17.292102819821462,
+  "Training_Time_Seconds": 1756.34,
+  "best_params": {
+    "model__estimator__max_depth": 8,
+    "model__learning_rate": 0.08168455894760163,
+    "model__loss": "linear",
+    "model__n_estimators": 239
+  }
+}

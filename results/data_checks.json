@@ -1,0 +1,28 @@
+{
+  "train_rows": 20631,
+  "train_engines": 100,
+  "lifetime_min": 128,
+  "lifetime_mean": 206.31,
+  "lifetime_max": 362,
+  "missing_values_total": 0,
+  "constant_sensors": [
+    "s1",
+    "s5",
+    "s6",
+    "s10",
+    "s16",
+    "s18",
+    "s19"
+  ],
+  "zero_std_sensors": [
+    "s1",
+    "s10",
+    "s18",
+    "s19"
+  ],
+  "rul_equals_last_minus_cycle": true,
+  "identifier_columns": [
+    "engine_id",
+    "unit"
+  ]
+}

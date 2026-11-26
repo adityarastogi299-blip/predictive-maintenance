@@ -1,0 +1,16 @@
+{
+  "Model": "Decision Tree",
+  "Member": "aditya",
+  "MAE": 11.825610512165218,
+  "MSE": 284.965638506261,
+  "RMSE": 16.880925285844405,
+  "R2": 0.8362451034418419,
+  "NASA_Score": 23401.937067091898,
+  "CV_RMSE": 19.268101502794234,
+  "Training_Time_Seconds": 12.34,
+  "best_params": {
+    "model__max_depth": 4,
+    "model__min_samples_leaf": 68,
+    "model__min_samples_split": 22
+  }
+}

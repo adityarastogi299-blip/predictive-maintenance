@@ -1,0 +1,20 @@
+{
+  "Model": "XGBoost",
+  "Member": "rajeshwari",
+  "MAE": 9.926304596003503,
+  "MSE": 220.84253667031618,
+  "RMSE": 14.860771738719231,
+  "R2": 0.8730933071873004,
+  "NASA_Score": 17535.677444399036,
+  "CV_RMSE": 17.070888837178547,
+  "Training_Time_Seconds": 75.82,
+  "best_params": {
+    "model__colsample_bytree": 0.6061695553391381,
+    "model__learning_rate": 0.017240892195821537,
+    "model__max_depth": 7,
+    "model__n_estimators": 360,
+    "model__reg_alpha": 0.016480446427978974,
+    "model__reg_lambda": 1.6124278458562613,
+    "model__subsample": 0.7727780074568463
+  }
+}

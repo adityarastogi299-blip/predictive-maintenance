@@ -1,0 +1,17 @@
+{
+  "Model": "Random Forest",
+  "Member": "varnika",
+  "MAE": 9.88207404786001,
+  "MSE": 215.1457343980274,
+  "RMSE": 14.667846958501695,
+  "R2": 0.8763669624662348,
+  "NASA_Score": 16107.189895263858,
+  "CV_RMSE": 16.848638538463472,
+  "Training_Time_Seconds": 58.96,
+  "best_params": {
+    "model__max_depth": 16,
+    "model__max_features": 0.3,
+    "model__min_samples_leaf": 11,
+    "model__n_estimators": 171
+  }
+}

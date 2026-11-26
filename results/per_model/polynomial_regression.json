@@ -1,0 +1,15 @@
+{
+  "Model": "Polynomial Regression",
+  "Member": "aditya",
+  "MAE": 13.547145732117663,
+  "MSE": 298.44081528610866,
+  "RMSE": 17.275439655363584,
+  "R2": 0.8285016218373453,
+  "NASA_Score": 20526.957673879882,
+  "CV_RMSE": 19.448795646056876,
+  "Training_Time_Seconds": 36.97,
+  "best_params": {
+    "poly__degree": 2,
+    "select__k": 20
+  }
+}

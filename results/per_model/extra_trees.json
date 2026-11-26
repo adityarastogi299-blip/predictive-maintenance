@@ -1,0 +1,17 @@
+{
+  "Model": "Extra Trees",
+  "Member": "rajeshwari",
+  "MAE": 9.717219661650867,
+  "MSE": 206.96875693555793,
+  "RMSE": 14.38640875741955,
+  "R2": 0.8810658451299271,
+  "NASA_Score": 15089.536824825735,
+  "CV_RMSE": 16.6580944933395,
+  "Training_Time_Seconds": 31.4,
+  "best_params": {
+    "model__max_depth": 12,
+    "model__max_features": 1.0,
+    "model__min_samples_leaf": 12,
+    "model__n_estimators": 154
+  }
+}
